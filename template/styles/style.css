@@ -1,0 +1,44 @@
+hr {
+    margin-top: 0 !important;
+}
+.title-site {
+    color: #000000 !important;
+}
+.recipe_img {
+    width: 200px;
+    height: 200px;
+}
+
+.recipe_description {
+    color: #7d807d
+
+}
+.btn-add {
+    margin-bottom: 15px !important; 
+    margin-left: 10px !important; 
+    margin-right: 10px !important; 
+}
+.recipe_title {
+    font-size: 15px;
+}
+
+.glyphicon-remove {
+    color: red;
+}
+.glyphicon-ok {
+    color: green;
+}
+.add {
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.submit_btn {
+    margin-top: 10px;
+}
+
+.form-control {
+    margin: 10px;
+}
+.add_header {
+    margin-left: 20px;
+}
